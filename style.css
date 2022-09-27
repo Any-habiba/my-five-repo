@@ -1,0 +1,13 @@
+h1{font-size: 50px;}
+.link-button{text-decoration: none;
+padding-left: 20px 50px;
+background-color: aqua;
+border-radius: 5px;
+font-weight: 20px;
+padding:10px;}
+section{display: flex;}
+.half{width: 111%;}
+.half img{width: 100%;}
+
+.brown{color:rgb(210, 25, 25)  }
+.and{background-color: antiquewhite;}
